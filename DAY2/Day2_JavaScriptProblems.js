@@ -18,5 +18,3 @@ function reverseNumber(num){
 }
 
 console.log(reverseNumber(51029))
-
-// 7. Write a code to replace all the spaces of the string with underscores
